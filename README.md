@@ -1,10 +1,7 @@
-backend/README.md
-
-Local MakerHub — Backend
+# Local MakerHub — Backend
 An Express.js + PostgreSQL backend for the Local MakerHub project.
 
-Features:
-
+## Features:
 User authentication with JWT
 
 Product management with tags, images, and vendor info
@@ -17,7 +14,8 @@ Order history per user
 
 Secured API with token verification
 
-Setup:
+
+## Setup:
 
 Install dependencies:
 npm install
